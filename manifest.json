@@ -1,0 +1,25 @@
+{
+  "name": "Mutualista — Cobros Semanales",
+  "short_name": "Mutualista",
+  "description": "Rastreador de cobros semanales para mutualista, 10 clientes y 44 sábados.",
+  "start_url": "/mutualista/",
+  "scope": "/mutualista/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F7F8FA",
+  "theme_color": "#1F3864",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
